@@ -1,0 +1,11 @@
+site_name: Git 与 GitHub 入门笔记
+site_url: https://zinnia1214.github.io/my-docs/
+repo_url: https://github.com/zinnia1214/my-docs
+theme:
+  name: material
+  language: zh
+nav:
+  - 首页: index.md
+  - 关于: about.md
+  - 使用指南: guide.md
+  - API参考: api.md
